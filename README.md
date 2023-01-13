@@ -8,7 +8,7 @@
 ![Preview image](/preview.jpg)
 
 ---
-1. Описание
+### 1. Описание
 
 * Модальное всплывающее окно с картой
 * Карта на всю ширину страницы, либо с кастомным размером
@@ -16,7 +16,7 @@
 * Вызов/инициализация из JS
 
 ---
-2. Подключение
+### 2. Подключение
 ```
 <head>
 ...
@@ -61,7 +61,7 @@
 </body>
 ```
 ---
-3. Пример JSON с данными
+### 3. Пример JSON с данными
 ```
 [ // Массив мест на карте
   { // Объект
@@ -119,4 +119,4 @@
 ]
 ```
 ---
-  [![fhnb16](https://img.shields.io/badge/Made_by_fhnb16-january_2022-gray.svg?style=plastic&labelColor=red)](https://fhnb.ru/)
+  [![fhnb16](https://img.shields.io/badge/Made_by_fhnb16-january_2022-gray.svg?style=plastic&labelColor=FF0000)](https://fhnb.ru/)
